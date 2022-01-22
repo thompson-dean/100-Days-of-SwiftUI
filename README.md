@@ -2,7 +2,7 @@
 
 ## 100 Days of SwiftUI
 
-#### Studying through PaulHudson's "100 Days of SwiftUI". 
+#### Studying through Paul Hudson's "100 Days of SwiftUI". 
 It is great to see how far my code has come along through the process.
 
 https://www.hackingwithswift.com/100/swiftui
