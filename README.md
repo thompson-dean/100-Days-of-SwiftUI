@@ -11,9 +11,9 @@ https://www.hackingwithswift.com/100/swiftui
 
 | Type               | Completion |
 | :----------------- | :--------: |
-| Project            |   12/19    |
+| Project            |   13/19    |
 | Challenge Day      |    1/1     |
-| Challenges         |   39/57    |
+| Challenges         |   42/57    |
 | Milestone Projects |    4/6     |
 
 ## Projects
@@ -38,7 +38,7 @@ https://www.hackingwithswift.com/100/swiftui
 | Project 12 - Core Data                  | No particular application for this Project. We were asked to advanced filtering of List using NSPredicate and sortDescriptors. <br>_Core Data_ </br>                                                                                                                       | *No Screenshot* |
 | Milestone 10-12 - FriendFace            | Social Media App. This milestone challenge mostly focuses on netowrking and data models. <br> _I decided to do some research on MVVM architecture and added it in this project._ </br>                                                                                     | <img src="https://github.com/thompson-dean/100-Days-of-SwiftUI/blob/main/17_Milestone10-12/screenshots/screen01.png" width=30% height=30%> <img src="https://github.com/thompson-dean/100-Days-of-SwiftUI/blob/main/17_Milestone10-12/screenshots/screen02.png" width=30% height=30%> |
 | Milestone 10-12(Core Data) - FriendFace | FriendFace with Core Data.                                                                                                                                                                                                                                                 | *same as above project*|
-| Project 13 - Instafilter                | _Not completed_                                                                                                                                                                                                                                                            | |
+| Project 13 - Instafilter                | Made an app that's able to filter images using Core Image Filters. The main focus of the project was to intergrate UIKit Views/ Controllers into our SwiftUI project. On top of the challenges I made it so that the name of the filter will show in the bottom left corner on the screen and that when a photo is saved it will do a 3D Rotation Animation. <br> _UIKit integration, Core Image, Custom bindings, Action Sheets._                                                                                                                                                                                                                                                            |<img src="https://github.com/thompson-dean/100-Days-of-SwiftUI/blob/main/18_Project13/screenshots/screen01.png" width=30% height=30%> <img src="https://github.com/thompson-dean/100-Days-of-SwiftUI/blob/main/18_Project13/screenshots/screen02.png" width=30% height=30%> <img src="https://github.com/thompson-dean/100-Days-of-SwiftUI/blob/main/18_Project13/screenshots/screen03.png" width=30% height=30%>|
 | Project 14 - Bucket List                | _Not completed_                                                                                                                                                                                                                                                            | |
 | Project 15 - Accessibility              | _Not completed_                                                                                                                                                                                                                                                            | |
 | Milestone 13-15 - Photo Contacts        | _Not completed_                                                                                                                                                                                                                                                            | |
